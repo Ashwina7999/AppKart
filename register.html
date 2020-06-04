@@ -293,10 +293,10 @@ function show() {
 </script>
 </div>
 
-<br>
+<br><br>
 
-
- <label style="margin-left: 22%;font-size: 16px">Sex</label>&emsp;
+<div class="gender" style="text-align: center">
+ <label style="font-size: 18px">Sex</label>&emsp;
           <label class="radio-inline">
       <input type="radio" name="sex" value="Male"checked>Male
     </label>
@@ -306,14 +306,15 @@ function show() {
     <label class="radio-inline">
       <input type="radio" name="sex" value="Others">Others
     </label>
-   
+ </div> 
 
 
 <br>
 <br>
 <br>
 
-<label style="margin-left: 22%;font-size: 16px">City</label>&emsp;&emsp;&emsp;&emsp;
+<div class="city" style="text-align: center">
+<label style="text-align: center;font-size: 16px">City</label>&emsp;&emsp;&emsp;&emsp;
 
 <input list="browsers" name="city" placeholder="  SELECT CITY" style="height: 40px;width: 180px;border-color: black;border-radius: 5px;margin-left: 5%">
   <datalist id="browsers">
@@ -336,12 +337,14 @@ function show() {
  
 
   </datalist>
-         
+</div>       
+   
 <br>
 <br>
 <br>
 
-<label style="margin-left: 22%;font-size: 16px">Occupation</label>
+<div class="occupation" style="text-align: center">
+<label style="font-size: 16px">Occupation</label>
 
 <input list="occupation" name="occupation" placeholder="  SELECT OCCUPATION" style="height: 40px;width: 180px;border-color: black;border-radius: 5px;margin-left: 5%">
   <datalist id="occupation">
@@ -353,6 +356,7 @@ function show() {
  
 
   </datalist>
+</div>
 
 
 
