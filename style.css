@@ -139,14 +139,6 @@ color: black;
 
 
 
-/* SIDE BAR */
-
-.sidebar{
-z-index:3;
-width:205px;
-margin-top: 40px;
-}
-
 
 /* PRICE FILTER*/
 * {
