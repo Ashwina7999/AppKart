@@ -17,7 +17,7 @@ Web application for Online Buying and Selling Products.
 #### HOME PAGE
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/59051731/86527005-3f17b680-beb8-11ea-9e37-33c35d99d24d.png)
-
+![Screenshot (105)](https://user-images.githubusercontent.com/59051731/86527133-a124eb80-beb9-11ea-99c1-504c4752652f.png)
 
 #### LOGIN PAGE
 
@@ -30,10 +30,7 @@ Web application for Online Buying and Selling Products.
 ![Screenshot (121)](https://user-images.githubusercontent.com/59051731/86527164-f234df80-beb9-11ea-936b-6de79cc70b60.png)
 
 
-### PRODUCT PAGE
-
-![Screenshot (105)](https://user-images.githubusercontent.com/59051731/86527133-a124eb80-beb9-11ea-99c1-504c4752652f.png)
-![Screenshot (106)](https://user-images.githubusercontent.com/59051731/86527142-bbf76000-beb9-11ea-84b1-50738ac65d90.png)
+---
 
 
 ### Working Pages
@@ -42,6 +39,8 @@ Web application for Online Buying and Selling Products.
 * Television Page
 * Mobile Page
 
+
+---
 
 ### CAR PAGE
 
