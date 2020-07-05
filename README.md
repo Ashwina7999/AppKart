@@ -17,11 +17,15 @@ Web application for Online Buying and Selling Products.
 #### HOME PAGE
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/59051731/86527005-3f17b680-beb8-11ea-9e37-33c35d99d24d.png)
+
 ![Screenshot (105)](https://user-images.githubusercontent.com/59051731/86527133-a124eb80-beb9-11ea-99c1-504c4752652f.png)
+
+
 
 #### LOGIN PAGE
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/59051731/86527125-7fc3ff80-beb9-11ea-803f-56f176574f91.png)
+
 
 
 ### REGISTER PAGE
@@ -48,10 +52,12 @@ Web application for Online Buying and Selling Products.
 ![Screenshot (108)](https://user-images.githubusercontent.com/59051731/86527231-9d459900-beba-11ea-8095-7120dc2bb330.png)
 
 
+
 ### TELEVISION PAGE
 
 ![Screenshot (125)](https://user-images.githubusercontent.com/59051731/86527275-03322080-bebb-11ea-989a-c97539d17f75.png)
 ![Screenshot (111)](https://user-images.githubusercontent.com/59051731/86527277-09280180-bebb-11ea-9d1f-81f55812fd08.png)
+
 
 
 ### MOBILE PAGE
