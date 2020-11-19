@@ -67,3 +67,14 @@ Web application for Online Buying and Selling Products.
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/59051731/86527288-278dfd00-bebb-11ea-96e1-1dd06dd482c6.png)
 ![Screenshot (114)](https://user-images.githubusercontent.com/59051731/86527289-2b218400-bebb-11ea-9886-b11045d7e6ee.png)
+
+
+<br><br><br>
+
+### License & Copyright
+
+Released under the MIT License. Click here to see the [LICENSE](LICENSE) file.
+
+
+<br>
+
